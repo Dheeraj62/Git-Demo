@@ -5,7 +5,7 @@
 int i;
 int lsearch(int[],int,int);
 int main()
-{
+{   system("cls");
 	int A[30],item,index,n;
 	printf("Enter the size of the array:");
 	scanf("%d",&n);
